@@ -1,0 +1,9 @@
+Updated student record
+ID Grade
+211 75
+293 62
+306 97
+252 84
+532 53
+798 91
+332 123
